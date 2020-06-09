@@ -1,2 +1,2 @@
 # csstriggerbot
-A simple triggerbot made with python for Counter-Strike: Source.
+A simple triggerbot made with python for Counter-Strike: Source game.
